@@ -1,0 +1,16 @@
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\Car.exe
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\Car.deps.json
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\Car.runtimeconfig.json
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\Car.runtimeconfig.dev.json
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\Car.dll
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\ref\Car.dll
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\bin\Debug\net5.0\Car.pdb
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.csproj.AssemblyReference.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.AssemblyInfoInputs.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.AssemblyInfo.cs
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.csproj.CoreCompileInputs.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.dll
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\ref\Car.dll
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.pdb
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH20\CarApp\Car\obj\Debug\net5.0\Car.genruntimeconfig.cache
