@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\jtapi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\jtapi\\.nuget\\packages"
-    ]
-  }
-}
