@@ -7,13 +7,10 @@ namespace Car_Test
     [TestClass]
     public class UnitTest1
     {
-        CarClass SampleCar;
-        [TestInitialize]
-        public void InstanceOfCar()
-        {
-            SampleCar = new CarClass("Nissan", "Versa", gasTankSize: 11, milesPerGallon: 40, 4);
-        }
-
+        
+        CarClass SampleCar = new CarClass("Nissan","Versa", gasTankSize: 11, milesPerGallon:40,4);
+        
+       
         //Verifies gas tank level is properly adjusted after using drive method in Car class.
         [TestMethod]
         public void TestGasTankAfterDriving()
@@ -59,5 +56,5 @@ namespace Car_Test
             Assert.IsFalse(maxDistance > 677);
         }
     }
-
+    
 }
