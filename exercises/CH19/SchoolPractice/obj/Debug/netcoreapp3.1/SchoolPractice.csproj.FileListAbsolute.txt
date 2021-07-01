@@ -10,3 +10,16 @@
 /Users/josetapia/mac-repos/LaunchCode/exercises/csharp-web-dev-lsn3and4classes/SchoolPractice/obj/Debug/netcoreapp3.1/SchoolPractice.pdb
 /Users/josetapia/mac-repos/LaunchCode/exercises/csharp-web-dev-lsn3and4classes/SchoolPractice/obj/Debug/netcoreapp3.1/SchoolPractice.genruntimeconfig.cache
 /Users/josetapia/mac-repos/LaunchCode/exercises/csharp-web-dev-lsn3and4classes/SchoolPractice/obj/Debug/netcoreapp3.1/SchoolPractice.csproj.AssemblyReference.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.exe
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.deps.json
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.runtimeconfig.json
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.runtimeconfig.dev.json
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.dll
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\bin\Debug\netcoreapp3.1\SchoolPractice.pdb
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.csproj.AssemblyReference.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.AssemblyInfoInputs.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.AssemblyInfo.cs
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.csproj.CoreCompileInputs.cache
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.dll
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.pdb
+D:\windows-repos\LaunchCode\LC-Exercises\exercises\CH19\SchoolPractice\obj\Debug\netcoreapp3.1\SchoolPractice.genruntimeconfig.cache

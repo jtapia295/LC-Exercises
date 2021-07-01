@@ -8,24 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/josetapia/.nuget/packages/": {}
+    "C:\\Users\\jtapi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josetapia/mac-repos/LaunchCode/exercises/csharp-web-dev-lsn3and4classes/SchoolPractice/SchoolPractice.csproj",
+      "projectUniqueName": "D:\\windows-repos\\LaunchCode\\LC-Exercises\\exercises\\CH19\\SchoolPractice\\SchoolPractice.csproj",
       "projectName": "SchoolPractice",
-      "projectPath": "/Users/josetapia/mac-repos/LaunchCode/exercises/csharp-web-dev-lsn3and4classes/SchoolPractice/SchoolPractice.csproj",
-      "packagesPath": "/Users/josetapia/.nuget/packages/",
-      "outputPath": "/Users/josetapia/mac-repos/LaunchCode/exercises/csharp-web-dev-lsn3and4classes/SchoolPractice/obj/",
+      "projectPath": "D:\\windows-repos\\LaunchCode\\LC-Exercises\\exercises\\CH19\\SchoolPractice\\SchoolPractice.csproj",
+      "packagesPath": "C:\\Users\\jtapi\\.nuget\\packages\\",
+      "outputPath": "D:\\windows-repos\\LaunchCode\\LC-Exercises\\exercises\\CH19\\SchoolPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/josetapia/.config/NuGet/NuGet.Config"
+        "C:\\Users\\jtapi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
